@@ -32,4 +32,4 @@ default:
  call("div",10,12)
  call("mod",12,11)
  call("add",10)
- 
+ CSSConditionRule.log("hello world")
